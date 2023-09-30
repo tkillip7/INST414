@@ -1,0 +1,889 @@
+{
+   "businesses": [
+      {
+         "id": "EyzwOeUWwoKGeZcOcVUW0A",
+         "alias": "ekiben-baltimore-3",
+         "name": "Ekiben",
+         "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aH5mx7-bjPn5MijMNSaADg/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/ekiben-baltimore-3?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 1750,
+         "categories": [
+            {
+               "alias": "asianfusion",
+               "title": "Asian Fusion"
+            },
+            {
+               "alias": "sandwiches",
+               "title": "Sandwiches"
+            }
+         ],
+         "rating": 5.0,
+         "coordinates": {
+            "latitude": 39.2857429,
+            "longitude": -76.594557
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "1622 Eastern Ave",
+            "address2": "",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21231",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "1622 Eastern Ave",
+               "Baltimore, MD 21231"
+            ]
+         },
+         "phone": "",
+         "display_phone": "",
+         "distance": 2899.3769673605893
+      },
+      {
+         "id": "8noXwvC2lMTODTX7X8pVDw",
+         "alias": "kong-pocha-baltimore-2",
+         "name": "Kong Pocha",
+         "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hh1U4vuwVgrj-5Px62pcbw/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/kong-pocha-baltimore-2?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 165,
+         "categories": [
+            {
+               "alias": "korean",
+               "title": "Korean"
+            },
+            {
+               "alias": "bbq",
+               "title": "Barbeque"
+            },
+            {
+               "alias": "asianfusion",
+               "title": "Asian Fusion"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.31242,
+            "longitude": -76.61722
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "12 W 20th St",
+            "address2": null,
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21218",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "12 W 20th St",
+               "Baltimore, MD 21218"
+            ]
+         },
+         "phone": "+14108018963",
+         "display_phone": "(410) 801-8963",
+         "distance": 783.2228530211794
+      },
+      {
+         "id": "B82cpig_hNiBsM77tXMQmA",
+         "alias": "kajiken-baltimore",
+         "name": "Kajiken",
+         "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DBalZZeaQEW65jmT2phyDw/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/kajiken-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 89,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.327879,
+            "longitude": -76.616392
+         },
+         "transactions": [],
+         "location": {
+            "address1": "7 E 33rd St",
+            "address2": "",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21218",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "7 E 33rd St",
+               "Baltimore, MD 21218"
+            ]
+         },
+         "phone": "+14438354617",
+         "display_phone": "(443) 835-4617",
+         "distance": 2167.559286580396
+      },
+      {
+         "id": "KDlBNN9X7iD60apAgGYC_A",
+         "alias": "the-dara-baltimore",
+         "name": "The Dara",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/55_Q6S1kDIC1zVkwZfrK9g/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/the-dara-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 9,
+         "categories": [
+            {
+               "alias": "thai",
+               "title": "Thai"
+            },
+            {
+               "alias": "bars",
+               "title": "Bars"
+            },
+            {
+               "alias": "noodles",
+               "title": "Noodles"
+            }
+         ],
+         "rating": 5.0,
+         "coordinates": {
+            "latitude": 39.28167524513928,
+            "longitude": -76.58982639169948
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "location": {
+            "address1": "906 S Wolfe St",
+            "address2": null,
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21231",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "906 S Wolfe St",
+               "Baltimore, MD 21231"
+            ]
+         },
+         "phone": "+14434386311",
+         "display_phone": "(443) 438-6311",
+         "distance": 3487.05704765096
+      },
+      {
+         "id": "JZlGOTvnm2a8B7eGRlZZUg",
+         "alias": "nihao-baltimore-2",
+         "name": "NiHao",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bm05zah55peRcFPzu5qduQ/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/nihao-baltimore-2?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 230,
+         "categories": [
+            {
+               "alias": "chinese",
+               "title": "Chinese"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 39.282945,
+            "longitude": -76.583924
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "location": {
+            "address1": "2322 Boston St",
+            "address2": "",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21224",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "2322 Boston St",
+               "Baltimore, MD 21224"
+            ]
+         },
+         "phone": "+14438352036",
+         "display_phone": "(443) 835-2036",
+         "distance": 3640.0451267803455
+      },
+      {
+         "id": "9UwxKW6LJCtLMkl9F4G6xQ",
+         "alias": "jong-kak-baltimore-3",
+         "name": "Jong Kak",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sjZWdpbg7OcUEofKz_ze8w/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/jong-kak-baltimore-3?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 365,
+         "categories": [
+            {
+               "alias": "korean",
+               "title": "Korean"
+            },
+            {
+               "alias": "bbq",
+               "title": "Barbeque"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 39.3123046,
+            "longitude": -76.6174721
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "18 W 20th St",
+            "address2": null,
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21218",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "18 W 20th St",
+               "Baltimore, MD 21218"
+            ]
+         },
+         "phone": "+14108375231",
+         "display_phone": "(410) 837-5231",
+         "distance": 801.0604079916147
+      },
+      {
+         "id": "X0LxFnup529kZ9x2QoYIkA",
+         "alias": "charming-elephant-baltimore",
+         "name": "Charming Elephant",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9mUvZmWFqikAXDFAB-IlwQ/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/charming-elephant-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 159,
+         "categories": [
+            {
+               "alias": "laotian",
+               "title": "Laotian"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.28281,
+            "longitude": -76.583637
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "2324 Boston St",
+            "address2": "Ste B",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21224",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "2324 Boston St",
+               "Ste B",
+               "Baltimore, MD 21224"
+            ]
+         },
+         "phone": "+14437087762",
+         "display_phone": "(443) 708-7762",
+         "distance": 3664.225596685618
+      },
+      {
+         "id": "JY72TrhFESLIJsXz5Na_iA",
+         "alias": "toki-underground-baltimore",
+         "name": "Toki Underground",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8JPqZhwfbqPcJ5bmKQSh8w/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/toki-underground-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 49,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            },
+            {
+               "alias": "cocktailbars",
+               "title": "Cocktail Bars"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.321619,
+            "longitude": -76.609174
+         },
+         "transactions": [
+            "restaurant_reservation",
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "2731 Greenmount Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21218",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "2731 Greenmount Ave",
+               "Baltimore, MD 21218"
+            ]
+         },
+         "phone": "+14434495392",
+         "display_phone": "(443) 449-5392",
+         "distance": 1370.557672577759
+      },
+      {
+         "id": "ynbOCrd_UK6IyDgEamb4gw",
+         "alias": "shoyou-sushi-baltimore",
+         "name": "Shoyou Sushi",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V1DWjK-5AKmshJU04iQC2w/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/shoyou-sushi-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 673,
+         "categories": [
+            {
+               "alias": "sushi",
+               "title": "Sushi Bars"
+            },
+            {
+               "alias": "japanese",
+               "title": "Japanese"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.2728666047061,
+            "longitude": -76.6119887125992
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "1450 Light St",
+            "address2": "",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21230",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "1450 Light St",
+               "Baltimore, MD 21230"
+            ]
+         },
+         "phone": "+14106852989",
+         "display_phone": "(410) 685-2989",
+         "distance": 4057.61664509091
+      },
+      {
+         "id": "H2CkERKKqTF3mBZHg9kHFQ",
+         "alias": "ejji-baltimore-2",
+         "name": "EJJI",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ETVxev23Uki_V3uJR2jTYg/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/ejji-baltimore-2?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 55,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.282525,
+            "longitude": -76.5987055
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "location": {
+            "address1": "711 S Central Ave",
+            "address2": "Fl 2",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21202",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "711 S Central Ave",
+               "Fl 2",
+               "Baltimore, MD 21202"
+            ]
+         },
+         "phone": "+14434383610",
+         "display_phone": "(443) 438-3610",
+         "distance": 3105.7346597500014
+      },
+      {
+         "id": "GuHS8LsYYyns4MfxiqIN0A",
+         "alias": "pho-bac-baltimore",
+         "name": "Pho Bac",
+         "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-j0k-kKTLCKhYoM0nYuBig/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/pho-bac-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 411,
+         "categories": [
+            {
+               "alias": "vietnamese",
+               "title": "Vietnamese"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.28418,
+            "longitude": -76.57447
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "700 S Potomac St",
+            "address2": null,
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21224",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "700 S Potomac St",
+               "Baltimore, MD 21224"
+            ]
+         },
+         "phone": "+16672051589",
+         "display_phone": "(667) 205-1589",
+         "distance": 4081.593135236236
+      },
+      {
+         "id": "wwfTFc9B_cKGE0sg-_533A",
+         "alias": "kippo-ramen-baltimore",
+         "name": "Kippo Ramen",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RXcalJmxIXd7dTCT1cA4GA/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/kippo-ramen-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 669,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            },
+            {
+               "alias": "soup",
+               "title": "Soup"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.2841531081,
+            "longitude": -76.5935978293
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "606 S Bdwy",
+            "address2": "",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21231",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "606 S Bdwy",
+               "Baltimore, MD 21231"
+            ]
+         },
+         "phone": "+16672124841",
+         "display_phone": "(667) 212-4841",
+         "distance": 3094.473885379635
+      },
+      {
+         "id": "ZFFQuoUajWY_gYZ4HjfIKQ",
+         "alias": "water-song-yunnan-kitchen-baltimore-3",
+         "name": "Water Song Yunnan Kitchen",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jc0HjhoAlPHcJuAU9NlLLw/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/water-song-yunnan-kitchen-baltimore-3?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 148,
+         "categories": [
+            {
+               "alias": "chinese",
+               "title": "Chinese"
+            },
+            {
+               "alias": "noodles",
+               "title": "Noodles"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 39.276528,
+            "longitude": -76.613502
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "21 E Cross St",
+            "address2": "",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21230",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "21 E Cross St",
+               "Baltimore, MD 21230"
+            ]
+         },
+         "phone": "+14438694580",
+         "display_phone": "(443) 869-4580",
+         "distance": 3664.8172088988968
+      },
+      {
+         "id": "TFTpMx-oPw19w3UaEWiD-g",
+         "alias": "be-more-thai-restaurant-baltimore",
+         "name": "Be More Thai Restaurant",
+         "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YPw3PmNS4qKdKh2K7Yalgg/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/be-more-thai-restaurant-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 103,
+         "categories": [
+            {
+               "alias": "thai",
+               "title": "Thai"
+            },
+            {
+               "alias": "noodles",
+               "title": "Noodles"
+            },
+            {
+               "alias": "salad",
+               "title": "Salad"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.27803,
+            "longitude": -76.61279
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "1006 Light St",
+            "address2": "",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21230",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "1006 Light St",
+               "Baltimore, MD 21230"
+            ]
+         },
+         "phone": "+14434384805",
+         "display_phone": "(443) 438-4805",
+         "distance": 3488.3790038053276
+      },
+      {
+         "id": "wn2F4YsQKi6SzdZuIKZNQw",
+         "alias": "ekiben-baltimore-4",
+         "name": "Ekiben",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4OQDkpcZ2012CqCycnpWwQ/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/ekiben-baltimore-4?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 217,
+         "categories": [
+            {
+               "alias": "asianfusion",
+               "title": "Asian Fusion"
+            },
+            {
+               "alias": "sandwiches",
+               "title": "Sandwiches"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.330867,
+            "longitude": -76.631776
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "911 W 36th St",
+            "address2": null,
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21211",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "911 W 36th St",
+               "Baltimore, MD 21211"
+            ]
+         },
+         "phone": "",
+         "display_phone": "",
+         "distance": 3095.1531747372014
+      },
+      {
+         "id": "X19jig0ubkRVdHdOup5onQ",
+         "alias": "ramen-utsuke-baltimore-2",
+         "name": "Ramen Utsuke",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BLOd7qubS5Th6ZzFpvsj5Q/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/ramen-utsuke-baltimore-2?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 436,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.28383,
+            "longitude": -76.61398
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "414 Light St",
+            "address2": "Ste 103",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21202",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "414 Light St",
+               "Ste 103",
+               "Baltimore, MD 21202"
+            ]
+         },
+         "phone": "+14435632977",
+         "display_phone": "(443) 563-2977",
+         "distance": 2865.1437280027026
+      },
+      {
+         "id": "Erzc9mS35xdDtoYNv3Gkmw",
+         "alias": "azumi-baltimore",
+         "name": "Azumi",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/csu5946iFqy_wpYZj1kfLA/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/azumi-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 626,
+         "categories": [
+            {
+               "alias": "sushi",
+               "title": "Sushi Bars"
+            },
+            {
+               "alias": "teppanyaki",
+               "title": "Teppanyaki"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 39.282787197393,
+            "longitude": -76.6028602654079
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "price": "$$$",
+         "location": {
+            "address1": "725 Aliceanna St",
+            "address2": null,
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21202",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "725 Aliceanna St",
+               "Baltimore, MD 21202"
+            ]
+         },
+         "phone": "+14432200477",
+         "display_phone": "(443) 220-0477",
+         "distance": 2994.142886177001
+      },
+      {
+         "id": "Ys0ZvEYrJRndOQUssXIEMw",
+         "alias": "toki-tako-baltimore",
+         "name": "Toki Tako",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0WfSWBcAvB-T0ksx2jmA3g/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/toki-tako-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 43,
+         "categories": [
+            {
+               "alias": "korean",
+               "title": "Korean"
+            },
+            {
+               "alias": "tacos",
+               "title": "Tacos"
+            },
+            {
+               "alias": "bbq",
+               "title": "Barbeque"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.33630501106766,
+            "longitude": -76.63025789999999
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "711 W 40th St",
+            "address2": "Ste 155",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21211",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "711 W 40th St",
+               "Ste 155",
+               "Baltimore, MD 21211"
+            ]
+         },
+         "phone": "+14437084993",
+         "display_phone": "(443) 708-4993",
+         "distance": 3515.321636376824
+      },
+      {
+         "id": "n3rjhuloJIwqul_g6F09Lg",
+         "alias": "slurpin-ramen-baltimore",
+         "name": "Slurpin Ramen",
+         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xThB9aTOjzghv7MnLBXKUw/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/slurpin-ramen-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 18,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.29584,
+            "longitude": -76.61904
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "520 Park Ave",
+            "address2": "",
+            "address3": null,
+            "city": "Baltimore",
+            "zip_code": "21201",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "520 Park Ave",
+               "Baltimore, MD 21201"
+            ]
+         },
+         "phone": "",
+         "display_phone": "",
+         "distance": 1696.3046454897951
+      },
+      {
+         "id": "3Szif3O7-yN90I_SEkxWNw",
+         "alias": "red-pepper-sichuan-bistro-towson",
+         "name": "Red Pepper Sichuan Bistro",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Lzq6kLxa0DAbO1hzFV8Vg/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/red-pepper-sichuan-bistro-towson?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 255,
+         "categories": [
+            {
+               "alias": "szechuan",
+               "title": "Szechuan"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 39.40145,
+            "longitude": -76.6032
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "11 Allegheny Ave",
+            "address2": null,
+            "address3": "",
+            "city": "Towson",
+            "zip_code": "21204",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "11 Allegheny Ave",
+               "Towson, MD 21204"
+            ]
+         },
+         "phone": "+14108327333",
+         "display_phone": "(410) 832-7333",
+         "distance": 10260.957618018312
+      }
+   ],
+   "total": 680,
+   "region": {
+      "center": {
+         "longitude": -76.60903930664062,
+         "latitude": 39.309286203696686
+      }
+   }
+}
