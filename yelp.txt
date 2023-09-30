@@ -353,6 +353,47 @@
          "distance": 1370.557672577759
       },
       {
+         "id": "H2CkERKKqTF3mBZHg9kHFQ",
+         "alias": "ejji-baltimore-2",
+         "name": "EJJI",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ETVxev23Uki_V3uJR2jTYg/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/ejji-baltimore-2?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 55,
+         "categories": [
+            {
+               "alias": "ramen",
+               "title": "Ramen"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.282525,
+            "longitude": -76.5987055
+         },
+         "transactions": [
+            "pickup",
+            "delivery"
+         ],
+         "location": {
+            "address1": "711 S Central Ave",
+            "address2": "Fl 2",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21202",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "711 S Central Ave",
+               "Fl 2",
+               "Baltimore, MD 21202"
+            ]
+         },
+         "phone": "+14434383610",
+         "display_phone": "(443) 438-3610",
+         "distance": 3105.7346597500014
+      },
+      {
          "id": "ynbOCrd_UK6IyDgEamb4gw",
          "alias": "shoyou-sushi-baltimore",
          "name": "Shoyou Sushi",
@@ -395,47 +436,6 @@
          "phone": "+14106852989",
          "display_phone": "(410) 685-2989",
          "distance": 4057.61664509091
-      },
-      {
-         "id": "H2CkERKKqTF3mBZHg9kHFQ",
-         "alias": "ejji-baltimore-2",
-         "name": "EJJI",
-         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ETVxev23Uki_V3uJR2jTYg/o.jpg",
-         "is_closed": false,
-         "url": "https://www.yelp.com/biz/ejji-baltimore-2?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
-         "review_count": 55,
-         "categories": [
-            {
-               "alias": "ramen",
-               "title": "Ramen"
-            }
-         ],
-         "rating": 4.5,
-         "coordinates": {
-            "latitude": 39.282525,
-            "longitude": -76.5987055
-         },
-         "transactions": [
-            "pickup",
-            "delivery"
-         ],
-         "location": {
-            "address1": "711 S Central Ave",
-            "address2": "Fl 2",
-            "address3": "",
-            "city": "Baltimore",
-            "zip_code": "21202",
-            "country": "US",
-            "state": "MD",
-            "display_address": [
-               "711 S Central Ave",
-               "Fl 2",
-               "Baltimore, MD 21202"
-            ]
-         },
-         "phone": "+14434383610",
-         "display_phone": "(443) 438-3610",
-         "distance": 3105.7346597500014
       },
       {
          "id": "GuHS8LsYYyns4MfxiqIN0A",
@@ -618,50 +618,6 @@
          "distance": 3488.3790038053276
       },
       {
-         "id": "wn2F4YsQKi6SzdZuIKZNQw",
-         "alias": "ekiben-baltimore-4",
-         "name": "Ekiben",
-         "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4OQDkpcZ2012CqCycnpWwQ/o.jpg",
-         "is_closed": false,
-         "url": "https://www.yelp.com/biz/ekiben-baltimore-4?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
-         "review_count": 217,
-         "categories": [
-            {
-               "alias": "asianfusion",
-               "title": "Asian Fusion"
-            },
-            {
-               "alias": "sandwiches",
-               "title": "Sandwiches"
-            }
-         ],
-         "rating": 4.5,
-         "coordinates": {
-            "latitude": 39.330867,
-            "longitude": -76.631776
-         },
-         "transactions": [
-            "delivery"
-         ],
-         "price": "$$",
-         "location": {
-            "address1": "911 W 36th St",
-            "address2": null,
-            "address3": "",
-            "city": "Baltimore",
-            "zip_code": "21211",
-            "country": "US",
-            "state": "MD",
-            "display_address": [
-               "911 W 36th St",
-               "Baltimore, MD 21211"
-            ]
-         },
-         "phone": "",
-         "display_phone": "",
-         "distance": 3095.1531747372014
-      },
-      {
          "id": "X19jig0ubkRVdHdOup5onQ",
          "alias": "ramen-utsuke-baltimore-2",
          "name": "Ramen Utsuke",
@@ -702,50 +658,6 @@
          "phone": "+14435632977",
          "display_phone": "(443) 563-2977",
          "distance": 2865.1437280027026
-      },
-      {
-         "id": "Erzc9mS35xdDtoYNv3Gkmw",
-         "alias": "azumi-baltimore",
-         "name": "Azumi",
-         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/csu5946iFqy_wpYZj1kfLA/o.jpg",
-         "is_closed": false,
-         "url": "https://www.yelp.com/biz/azumi-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
-         "review_count": 626,
-         "categories": [
-            {
-               "alias": "sushi",
-               "title": "Sushi Bars"
-            },
-            {
-               "alias": "teppanyaki",
-               "title": "Teppanyaki"
-            }
-         ],
-         "rating": 4.0,
-         "coordinates": {
-            "latitude": 39.282787197393,
-            "longitude": -76.6028602654079
-         },
-         "transactions": [
-            "delivery"
-         ],
-         "price": "$$$",
-         "location": {
-            "address1": "725 Aliceanna St",
-            "address2": null,
-            "address3": "",
-            "city": "Baltimore",
-            "zip_code": "21202",
-            "country": "US",
-            "state": "MD",
-            "display_address": [
-               "725 Aliceanna St",
-               "Baltimore, MD 21202"
-            ]
-         },
-         "phone": "+14432200477",
-         "display_phone": "(443) 220-0477",
-         "distance": 2994.142886177001
       },
       {
          "id": "Ys0ZvEYrJRndOQUssXIEMw",
@@ -795,6 +707,50 @@
          "phone": "+14437084993",
          "display_phone": "(443) 708-4993",
          "distance": 3515.321636376824
+      },
+      {
+         "id": "Erzc9mS35xdDtoYNv3Gkmw",
+         "alias": "azumi-baltimore",
+         "name": "Azumi",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/csu5946iFqy_wpYZj1kfLA/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/azumi-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 626,
+         "categories": [
+            {
+               "alias": "sushi",
+               "title": "Sushi Bars"
+            },
+            {
+               "alias": "teppanyaki",
+               "title": "Teppanyaki"
+            }
+         ],
+         "rating": 4.0,
+         "coordinates": {
+            "latitude": 39.282787197393,
+            "longitude": -76.6028602654079
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "price": "$$$",
+         "location": {
+            "address1": "725 Aliceanna St",
+            "address2": null,
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21202",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "725 Aliceanna St",
+               "Baltimore, MD 21202"
+            ]
+         },
+         "phone": "+14432200477",
+         "display_phone": "(443) 220-0477",
+         "distance": 2994.142886177001
       },
       {
          "id": "n3rjhuloJIwqul_g6F09Lg",
@@ -877,6 +833,51 @@
          "phone": "+14108327333",
          "display_phone": "(410) 832-7333",
          "distance": 10260.957618018312
+      },
+      {
+         "id": "VhC1yXf0GKGexOMtFlRmRg",
+         "alias": "thai-street-baltimore",
+         "name": "Thai Street",
+         "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o2kDNFmIZY6lHjYRL4EzUw/o.jpg",
+         "is_closed": false,
+         "url": "https://www.yelp.com/biz/thai-street-baltimore?adjust_creative=Niykl5J-6_FWcw413gNDQg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Niykl5J-6_FWcw413gNDQg",
+         "review_count": 199,
+         "categories": [
+            {
+               "alias": "thai",
+               "title": "Thai"
+            },
+            {
+               "alias": "noodles",
+               "title": "Noodles"
+            }
+         ],
+         "rating": 4.5,
+         "coordinates": {
+            "latitude": 39.284,
+            "longitude": -76.59337
+         },
+         "transactions": [
+            "delivery"
+         ],
+         "price": "$$",
+         "location": {
+            "address1": "1640 Aliceanna St",
+            "address2": "#11",
+            "address3": "",
+            "city": "Baltimore",
+            "zip_code": "21231",
+            "country": "US",
+            "state": "MD",
+            "display_address": [
+               "1640 Aliceanna St",
+               "#11",
+               "Baltimore, MD 21231"
+            ]
+         },
+         "phone": "+16672125906",
+         "display_phone": "(667) 212-5906",
+         "distance": 3102.4264809555148
       }
    ],
    "total": 680,
